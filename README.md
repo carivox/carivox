@@ -1,7 +1,7 @@
 # 📄 About Me:
 
 - 🎓 I'm currently working on my Skills.
-- 🌱 I'm currently learning more about Web development
+- 🌱 I'm currently learning more about Web- and Androiddevelopment
 
 ---
 
